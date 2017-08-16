@@ -28,4 +28,23 @@ Books to DVDs                                                     |Books to Elec
 
 |<img src="figs/shared_feature_ADSA_books_to_kitchen.png" width="40%">|<img src="figs/shared_feature_ADSA_dvd_to_books.png" width="40%">
 |:---------------------------------------------------------------:|:---------------------------------------------------------------------:
-Books to kitchen                                                  |DVDs to Books 
+Books to Kitchen                                                  |DVDs to Books
+
+|<img src="figs/shared_feature_ADSA_dvd_to_electronics.png" width="40%">|<img src="figs/shared_feature_ADSA_dvd_to_kitchen.png" width="40%">
+|:---------------------------------------------------------------:|:---------------------------------------------------------------------:
+DVDs to Electronics                                               |DVDs to Kitchen
+
+|<img src="figs/shared_feature_ADSA_electronics_to_books.png" width="40%">|<img src="figs/shared_feature_ADSA_electronics_to_dvd.png" width="40%">
+|:---------------------------------------------------------------:|:---------------------------------------------------------------------:
+Electronics to Books                                              |electronics to DVDs
+
+|<img src="figs/shared_feature_ADSA_electronics_to_kitchen.png" width="40%">|<img src="figs/shared_feature_ADSA_kitchen_to_books.png" width="40%">
+|:---------------------------------------------------------------:|:---------------------------------------------------------------------:
+Electronics to Kitchen                                            |Kitchen to Books
+
+|<img src="figs/shared_feature_ADSA_kitchen_to_dvd.png" width="40%">|<img src="figs/shared_feature_ADSA_kitchen_to_electronics.png" width="40%">
+|:---------------------------------------------------------------:|:---------------------------------------------------------------------:
+Kitchen to DVDs                                                   |Kitchen to Electronics
+
+
+
