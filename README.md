@@ -15,6 +15,7 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 
 ## Result
 - Classification Accuracies ($\%$) for adaptation among different domains
+
 | Source      | Target      | Baseline         | VFAE            | DAN                 | DSN            | ADSA                |
 |-------------|-------------|------------------|-----------------|---------------------|----------------|---------------------|
 | Books       | DVDs        | 77.2             | 77.6            | 78.4                | 78.2           | 80.2                |
@@ -32,6 +33,7 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 | average                   | 72.59167$\pm .58$| 72.55 $\pm 4.46$| 76.25833 $\pm 2.85$ | 75.71667 $1.8$ | 78.20833 $\pm 1.22$ |
 
 -Visualization of shared features by t-SNE
+
 |<img src="figs/shared_feature_ADSA_books_to_dvd.png" width="80%">|
 |:---------------------------------------------------------------:|
 |Books to DVDs|
