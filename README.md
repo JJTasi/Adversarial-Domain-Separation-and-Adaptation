@@ -36,10 +36,10 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 
 -Visualization of shared features by t-SNE
 
-|<img src="figs/shared_feature_ADSA_books_to_dvd.png" width="40%">|<img src="figs/shared_feature_ADSA_books_to_electronics.png", width="40%">
+|<img src="figs/shared_feature_ADSA_books_to_dvd.png" width="40%">|<img src="figs/shared_feature_ADSA_books_to_electronics.png" width="40%">
 |:---------------------------------------------------------------:|:------------------------------------------------------------------------:
 Books to DVDs                                                     |Books to Electronics
 
-|<img src="figs/shared_feature_ADSA_books_to_kitchen.png" width="40%">|<img src="figs/shared_feature_ADSA_dvd_to_books.png", width="40%">
+|<img src="figs/shared_feature_ADSA_books_to_kitchen.png" width="40%">|<img src="figs/shared_feature_ADSA_dvd_to_books.png" width="40%">
 |:---------------------------------------------------------------:|:---------------------------------------------------------------------:
 Books to kitchen                                                  |DVDs to Books 
