@@ -9,9 +9,11 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 	- RAM: 32GB DDR3-1600
 	- GPU: NVIDIA TITAN X 6GB RAM
 
--Tensorflow: 0.12
+- Tensorflow: 0.12
 
--Dataset: Amazon Review [ link ](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) (Please download the processed_acl.tar.gz)
+- Dataset:
+	- Amazon Review: [ link ](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) (Please download the processed_acl.tar.gz)
+
 
 ## Result
 - Classification Accuracies (\%) for adaptation among different domains
@@ -34,6 +36,10 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 
 -Visualization of shared features by t-SNE
 
-|<img src="figs/shared_feature_ADSA_books_to_dvd.png" width="80%">|
-|:---------------------------------------------------------------:|
-|Books to DVDs|
+|<img src="figs/shared_feature_ADSA_books_to_dvd.png" width="40%">|<img src="figs/shared_feature_ADSA_books_to_electronics.png", width="40%">
+|:---------------------------------------------------------------:|:------------------------------------------------------------------------:
+Books to DVDs                                                     |Books to Electronics
+
+|<img src="figs/shared_feature_ADSA_books_to_kitchen.png" width="40%">|<img src="figs/shared_feature_ADSA_dvd_to_books.png", width="40%">
+|:---------------------------------------------------------------:|:---------------------------------------------------------------------:
+Books to kitchen                                                  |DVDs to Books 
