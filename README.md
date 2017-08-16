@@ -33,8 +33,9 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 | Kitchen     | DVDs        | 68               | 68.4            | 74                  | 71.3           | 75.8                |
 | Kitchen     | Electronics | 82.5             | 82.4            | 84.3                | 83             | 83.6                |
 | average     |             | 72.59167         | 72.55           | 76.25833            | 75.71667       | 78.20833            |
+| variance    |             | 0.58             | 4.46            | 2.85                | 1.8            | 1.22                |
 
--Visualization of shared features by t-SNE
+-Visualization of shared features by t-SNE.(RED: source domain , BLUE: target domain)
 
 |<img src="figs/shared_feature_ADSA_books_to_dvd.png" width="40%">|<img src="figs/shared_feature_ADSA_books_to_electronics.png" width="40%">
 |:---------------------------------------------------------------:|:------------------------------------------------------------------------:
