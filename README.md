@@ -30,7 +30,7 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 | Kitchen     | Books       | 66.9             | 66.8            | 70.9                | 69.4           | 72.5                |
 | Kitchen     | DVDs        | 68               | 68.4            | 74                  | 71.3           | 75.8                |
 | Kitchen     | Electronics | 82.5             | 82.4            | 84.3                | 83             | 83.6                |
-| average     |             | 72.59167&plusmn 0.58| 72.55&plusmn 4.46  | 76.25833&plusmn2.85   | 75.71667&plusmn 1.8   | 78.20833&plusmn 1.22   |
+| average     |             | 72.59167 &plusmn 0.58| 72.55&plusmn 4.46  | 76.25833&plusmn2.85   | 75.71667&plusmn 1.8   | 78.20833&plusmn 1.22   |
 
 -Visualization of shared features by t-SNE
 
