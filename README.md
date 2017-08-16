@@ -9,16 +9,15 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 	- RAM: 32GB DDR3-1600
 	- GPU: NVIDIA TITAN X 6GB RAM
 
--Tensorflow:0.12
+-Tensorflow: 0.12
 
--Dataset
-	-Amazon Review [ link ](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) (Please download the processed_acl.tar.gz)
+-Dataset: Amazon Review [ link ](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) (Please download the processed_acl.tar.gz)
 
 ## Result
 - Classification Accuracies (\%) for adaptation among different domains
 
 | Source      | Target      | Baseline         | VFAE            | DAN                 | DSN            | ADSA                |
-|-------------|-------------|------------------|-----------------|---------------------|----------------|---------------------|
+|-------------|-------------|:----------------:|:---------------:|:-------------------:|:--------------:|:-------------------:|
 | Books       | DVDs        | 77.2             | 77.6            | 78.4                | 78.2           | 80.2                |
 | Books       | Electronics | 70.3             | 69              | 73.3                | 71.8           | 78.3                |
 | Books       | Kitchen     | 72.8             | 70.3            | 77.9                | 76.6           | 81.3                |
@@ -31,7 +30,7 @@ In this project, we implement Adversarial Domain Separation and Adaptation on se
 | Kitchen     | Books       | 66.9             | 66.8            | 70.9                | 69.4           | 72.5                |
 | Kitchen     | DVDs        | 68               | 68.4            | 74                  | 71.3           | 75.8                |
 | Kitchen     | Electronics | 82.5             | 82.4            | 84.3                | 83             | 83.6                |
-|---------------------------|------------------|-----------------|---------------------|----------------|---------------------|
+|---------------------------|:----------------:|:---------------:|:-------------------:|:--------------:|:-------------------:|
 | average                   | 72.59167 \plusmn 0.58| 72.55&plusmn 4.46  | 76.25833&plusmn2.85   | 75.71667&plusmn 1.8   | 78.20833&plusmn 1.22   |
 
 -Visualization of shared features by t-SNE
