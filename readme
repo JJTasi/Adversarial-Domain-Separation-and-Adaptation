@@ -1,0 +1,20 @@
+This project contains source code for Dataset preprocessing, Model, Testing and some utilization used in Adversarial Domain Separation and Adaptation(ADSA).
+We use Python2 and run on Ubunto, we also use the following library: tensorflow(0.12), matplotlib, scikit-learn(optional).
+Please make sure you already install these library before runing the project.
+
+We first breiefly describe the content of each folder. For detail, please see the Readme.txt in each folder.
+Folder-Dataset:
+Here contains code for data preprocessing on Amazon Reviews(Seniment).
+In this project we don't contatin the data of Amazton Reviews.
+Please download from the provider website.
+Amazon Reviews : https://www.cs.jhu.edu/~mdredze/datasets/sentiment/ (please download the processed_acl.tar.gz)
+
+Folder-Model:
+Here contains code for model construction.
+For the proposed model, we have
+Adversarial Domain Separation and Adaptation
+
+
+!! Before run the code, please change the path of dataset file and the path of Folder Model in the following codes: every testing codes, XXFeaturePlot.py and DataPackage.py in Amazon_Reviews.
+And create Folder named "Experimental_Result" at each folders of experiments
+
